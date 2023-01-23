@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+
+    android:layout_height="60dp">
+
+    <TextView
+        android:id="@+id/barcode"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textAlignment="center"/>
+
+
+    <TextView
+        android:id="@+id/items"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textAlignment="center"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
+
+
+
+
+
+

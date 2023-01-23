@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:context=".addwork">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_height="600dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="ok"
+            android:textAlignment="center"
+
+            android:id="@+id/recview"/>
+
+    </ScrollView>
+    <TextView
+        android:id="@+id/totaladdwork"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"/>
+    <TextView
+        android:id="@+id/scandata"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"/>
+
+
+    <Button
+        android:id="@+id/scanaddworkbtn"
+        android:layout_width="200dp"
+        android:layout_gravity="center"
+        android:layout_height="60dp"
+        android:text="Scan  Add Work"/>
+</LinearLayout>

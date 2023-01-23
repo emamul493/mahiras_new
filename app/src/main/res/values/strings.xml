@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MAHIRA2</string>
+    <string name="enter_your_password">Enter Password</string>
+    <string name="title_activity_dashbord">dashbord</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Log Out</string>
+
+    <string name="menu_home">Add Work</string>
+    <string name="menu_gallery">Final Work</string>
+    <string name="menu_slideshow">Logout</string>
+</resources>
